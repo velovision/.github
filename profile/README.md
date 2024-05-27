@@ -1,10 +1,10 @@
 # Welcome to Velovision Github
 
-# Velovision
+#### Velovision
 
 + [Rearview](https://velovision.app/rearview)
 + [iOS App](https://veloision.app/velovision)
 
-# Follow us
+#### Follow us
 
 + [Discord](https://discord.gg/zWGUe9G8)
